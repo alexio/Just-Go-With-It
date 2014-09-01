@@ -1,4 +1,4 @@
 Just-Go-With-It
 ===============
 
-My first dive into Goland
+My first dive into Golang
